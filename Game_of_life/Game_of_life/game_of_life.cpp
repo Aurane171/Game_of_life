@@ -5,7 +5,7 @@
 using namespace std; 
  
 
-
+//AURANE CARON
 //private 
 bool game_of_life::random_value()
 {
